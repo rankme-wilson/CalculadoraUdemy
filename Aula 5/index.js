@@ -1,4 +1,5 @@
-/*function somar(x1, x2) {
+/* 
+function somar(x1, x2) {
 
     return x1 + x2;
 
@@ -31,7 +32,7 @@ console.log(resultado);
 
 }
 
-let resultado = calc(1, 2, "*");
+let resultado = calc(6, 2, "*");
 
 console.log(resultado);
 */
